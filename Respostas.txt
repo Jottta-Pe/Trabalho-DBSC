@@ -1,0 +1,85 @@
+1.1 - O Dataset escolhido foi Formula 1 Grand Prix Winners Dataset (1950–2025) porém, mantive os dados
+apenas até a linha 200
+
+1.2 - Este Dataset reúne informações sobre as corridas da Formula 1, incluindo dados como data da corrida, 
+circuito, equipe vencedora, tempo total da prova, número de voltas e o ano em que ocorreu. Com esses 
+dados, é possível analisar a duração média das corridas, a variação no número de voltas e possíveis 
+diferenças entre circuitos e anos. A base nos permite observar características das corridas ao longo do 
+tempo e identificar padrões entre diferentes eventos e temporadas entre os anos 1950 e 1970.
+Essas informações ajudam a entender melhor como as corridas se comportam e como certos fatores podem 
+influenciar sua duração e estrutura.
+
+
+
+2.2 - Os dados foram carregados utilizando pandas. Foram exibidas as primeiras linhas da base com head(), 
+as informações das colunas com info() e a verificação de valores ausentes com isnull().sum() para avaliar 
+a qualidade dos dados.
+
+2.3 - Para deixar os dados mais organizados para análise, foram removidas as linhas que tinham informações
+faltando nas colunas usadas no estudo (tempo, voltas e ano). Isso foi feito para evitar erros ou 
+resultados incorretos durante a análise utilizando o método dropna().
+
+
+
+3.3 - As variáveis escolhidas foram tempo de corrida (time) e número de voltas (laps) para analisar.
+
+O tempo médio das corridas é de cerca de 8.913s o que da aproximadamente 2h28min, mas algumas corridas 
+duraram muito mais ou muito menos, então a média não representa exatamente o que acontece na maioria das 
+corridas. Por isso também olhamos a mediana, que é 8.341s o que da aproximadamente 2h19min e mostra melhor
+o tempo central real, sendo mais confiável diante de valores extremos.
+A moda do tempo é 7.165s aproximadamente 1h59min, indicando que algumas corridas tiveram tempos repetidos 
+mais curtos, mas não é tão representativa no geral.
+Para as voltas, a média é 75,45 e a mediana é 77,5, mostrando que a maioria das corridas completou 
+praticamente o mesmo número de voltas. A moda é 80, o que indica que muitas corridas tiveram exatamente 
+esse número de voltas.
+Olhando a variância e o desvio-padrão, o tempo tem valores bem dispersos, mostrando que algumas corridas 
+foram muito longas ou lentas — ou seja, mesmo que a média pareça “normal”, a variabilidade indica que nem 
+todos os pilotos completam no mesmo ritmo, mostrando instabilidade. Já o número de voltas é mais 
+previsível, com pouca variação.
+Em resumo: a média mostra o valor típico, mas pode enganar se houver extremos; a mediana é mais robusta e 
+dá uma ideia melhor do que é previsível na maior parte dos casos.
+
+
+
+4.2 - Tempo de Corrida (time (segundos))
+
+4.2 - Assimetria/cauda: claramente assimétrico à direita, tem algumas corridas muito longas que puxam 
+a distribuição.
+
+4.3 - Outliers: sim, há alguns valores bem altos (mais de 12.000 s e até 14.000 s), que são casos extremos.
+
+4.4 - Bimodalidade: não parece ter dois picos claros, é um único perfil com cauda longa.
+
+4.5 - Média ou mediana: mediana é mais representativa, porque a média é puxada pelos outliers e pode 
+enganar sobre o tempo típico de corrida.
+
+4.2.1 - Número de Voltas (laps)
+
+4.2.1 - Assimetria/cauda: distribuição ligeiramente assimétrica à direita, mas muito mais concentrada em 
+torno de 70–80 voltas.
+
+4.3.1 - Outliers: alguns valores extremos aparecem (voltas muito baixas e algumas muito altas, como 150–200),
+mas são raros.
+
+4.4.1 - Bimodalidade: não, há um pico principal em torno de 75–80 voltas.
+
+4.5.1 - Média ou mediana: média e mediana são parecidas, então qualquer uma pode ser usada; a média já é 
+confiável para representar a maioria das corridas.
+
+
+
+5.3 - O scatter de tempo x voltas mostra que, em geral, mais voltas levam a corridas mais longas, embora 
+haja algumas voltas fora do padrão. O scatter de tempo x ano indica que, com o passar dos anos, os tempos 
+foram caindo, refletindo a evolução de carros e pilotos.
+Essas tendências ficam claras também na correlação, que confirma o que vemos nos gráficos.
+
+
+
+6.3 - Os outliers representam corridas com tempos muito altos ou muito baixos.
+Não parecem erros, mas sim casos raros ou diferenças entre pistas e equipes.
+
+
+
+7.1 - IA usada: Sim
+Para quê: Tirar dúvidas de sintaxe, entender erros e conceitos, auxiliar na interpretação dos gráficos,
+baixar as extenções necessárias e deixar mais bonito.

@@ -1,0 +1,201 @@
+date,continent,grand_prix,circuit,winner_name,team,time,laps,year
+1950-05-13,Europe,Great Britain,Silverstone Circuit,Nino Farina,Alfa Romeo,02:13:23,70.0,1950
+1950-05-21,Europe,Monaco,Circuit de Monaco,Juan Manuel Fangio,Alfa Romeo,03:13:18,100.0,1950
+1950-05-30,North America,United States,Indianapolis Motor Speedway,Johnnie Parsons,Kurtis Kraft Offenhauser,02:46:55,138.0,1950
+1950-06-04,Europe,Switzerland,Circuit Bremgarten,Nino Farina,Alfa Romeo,02:02:53,42.0,1950
+1950-06-18,Europe,Belgium,Circuit de Spa Francorchamps,Juan Manuel Fangio,Alfa Romeo,02:47:26,35.0,1950
+1950-07-02,Europe,France,Circuit de Reims Gueux,Juan Manuel Fangio,Alfa Romeo,02:57:52,64.0,1950
+1950-09-03,Europe,Italy,Autodromo Nazionale di Monza,Nino Farina,Alfa Romeo,02:51:17,80.0,1950
+1951-05-27,Europe,Switzerland,Circuit Bremgarten,Juan Manuel Fangio,Alfa Romeo,02:07:53,42.0,1951
+1951-05-30,North America,United States,Indianapolis Motor Speedway,Lee Wallard,Kurtis Kraft Offenhauser,03:57:38,200.0,1951
+1951-06-17,Europe,Belgium,Circuit de Spa Francorchamps,Nino Farina,Alfa Romeo,02:45:46,36.0,1951
+1951-07-01,Europe,France,Circuit de Reims Gueux,Juan Manuel Fangio,Alfa Romeo,03:22:11,77.0,1951
+1951-07-01,Europe,France,Circuit de Reims Gueux,Luigi Fagioli,Alfa Romeo,03:22:11,77.0,1951
+1951-07-14,Europe,Great Britain,Silverstone Circuit,Jose Froilan Gonzalez,Ferrari,02:42:18,90.0,1951
+1951-07-29,Europe,Germany,Nürburgring,Alberto Ascari,Ferrari,03:23:03,20.0,1951
+1951-09-16,Europe,Italy,Autodromo Nazionale di Monza,Alberto Ascari,Ferrari,02:42:39,80.0,1951
+1951-10-28,Europe,Spain,Circuit de Pedralbes,Juan Manuel Fangio,Alfa Romeo,02:46:54,70.0,1951
+1952-05-18,Europe,Switzerland,Circuit Bremgarten,Piero Taruffi,Ferrari,03:01:46,62.0,1952
+1952-05-30,North America,United States,Indianapolis Motor Speedway,Troy Ruttman,Kuzma Offenhauser,03:52:41,200.0,1952
+1952-06-22,Europe,Belgium,Circuit de Spa Francorchamps,Alberto Ascari,Ferrari,03:03:46,36.0,1952
+1952-07-06,Europe,France,Rouen Les Essarts,Alberto Ascari,Ferrari,03:00:00,77.0,1952
+1952-07-19,Europe,Great Britain,Silverstone Circuit,Alberto Ascari,Ferrari,02:44:11,85.0,1952
+1952-08-03,Europe,Germany,Nürburgring,Alberto Ascari,Ferrari,03:06:13,18.0,1952
+1952-08-17,Europe,Netherlands,Circuit Zandvoort,Alberto Ascari,Ferrari,02:53:28,90.0,1952
+1952-09-07,Europe,Italy,Autodromo Nazionale di Monza,Alberto Ascari,Ferrari,02:50:45,80.0,1952
+1953-01-18,South America,Argentina,Autódromo Oscar y Juan Gálvez,Alberto Ascari,Ferrari,03:01:04,97.0,1953
+1953-05-30,North America,United States,Indianapolis Motor Speedway,Bill Vukovich,Kurtis Kraft Offenhauser,03:53:01,200.0,1953
+1953-06-07,Europe,Netherlands,Circuit Zandvoort,Alberto Ascari,Ferrari,02:53:35,90.0,1953
+1953-06-21,Europe,Belgium,Circuit de Spa Francorchamps,Alberto Ascari,Ferrari,02:48:30,36.0,1953
+1953-07-05,Europe,France,Circuit de Reims Gueux,Mike Hawthorn,Ferrari,02:44:18,60.0,1953
+1953-07-18,Europe,Great Britain,Silverstone Circuit,Alberto Ascari,Ferrari,02:50:00,90.0,1953
+1953-08-02,Europe,Germany,Nürburgring,Nino Farina,Ferrari,03:02:25,18.0,1953
+1953-08-23,Europe,Switzerland,Circuit Bremgarten,Alberto Ascari,Ferrari,03:01:34,65.0,1953
+1953-09-13,Europe,Italy,Autodromo Nazionale di Monza,Juan Manuel Fangio,Maserati,02:49:45,80.0,1953
+1954-01-17,South America,Argentina,Autódromo Oscar y Juan Gálvez,Juan Manuel Fangio,Maserati,03:00:55,87.0,1954
+1954-05-31,North America,United States,Indianapolis Motor Speedway,Bill Vukovich,Kurtis Kraft Offenhauser,03:49:17,200.0,1954
+1954-06-20,Europe,Belgium,Circuit de Spa Francorchamps,Juan Manuel Fangio,Maserati,02:44:42,36.0,1954
+1954-07-04,Europe,France,Circuit de Reims Gueux,Juan Manuel Fangio,Mercedes-Benz,02:42:47,61.0,1954
+1954-07-17,Europe,Great Britain,Silverstone Circuit,Jose Froilan Gonzalez,Ferrari,02:56:14,90.0,1954
+1954-08-01,Europe,Germany,Nürburgring,Juan Manuel Fangio,Mercedes-Benz,03:45:45,22.0,1954
+1954-08-22,Europe,Switzerland,Circuit Bremgarten,Juan Manuel Fangio,Mercedes-Benz,03:00:34,66.0,1954
+1954-09-05,Europe,Italy,Autodromo Nazionale di Monza,Juan Manuel Fangio,Mercedes-Benz,02:47:47,80.0,1954
+1954-10-24,Europe,Spain,Circuit de Pedralbes,Mike Hawthorn,Ferrari,03:13:52,80.0,1954
+1955-01-16,South America,Argentina,Autódromo Oscar y Juan Gálvez,Juan Manuel Fangio,Mercedes-Benz,03:00:38,96.0,1955
+1955-05-22,Europe,Monaco,Circuit de Monaco,Maurice Trintignant,Ferrari,02:58:09,100.0,1955
+1955-05-30,North America,United States,Indianapolis Motor Speedway,Bob Sweikert,Kurtis Kraft Offenhauser,03:53:59,200.0,1955
+1955-06-05,Europe,Belgium,Circuit de Spa Francorchamps,Juan Manuel Fangio,Mercedes-Benz,02:39:29,36.0,1955
+1955-06-19,Europe,Netherlands,Circuit Zandvoort,Juan Manuel Fangio,Mercedes-Benz,02:54:23,100.0,1955
+1955-07-16,Europe,Great Britain,Aintree Circuit,Stirling Moss,Mercedes-Benz,03:07:21,90.0,1955
+1955-09-11,Europe,Italy,Autodromo Nazionale di Monza,Juan Manuel Fangio,Mercedes-Benz,02:25:04,50.0,1955
+1956-01-22,South America,Argentina,Autódromo Oscar y Juan Gálvez,Luigi Musso,Ferrari,03:00:03,98.0,1956
+1956-01-22,South America,Argentina,Autódromo Oscar y Juan Gálvez,Juan Manuel Fangio,Ferrari,03:00:03,98.0,1956
+1956-05-13,Europe,Monaco,Circuit de Monaco,Stirling Moss,Maserati,03:00:32,100.0,1956
+1956-05-30,North America,United States,Indianapolis Motor Speedway,Pat Flaherty,Watson Offenhauser,03:53:28,200.0,1956
+1956-06-03,Europe,Belgium,Circuit de Spa Francorchamps,Peter Collins,Ferrari,02:40:00,36.0,1956
+1956-07-01,Europe,France,Circuit de Reims Gueux,Peter Collins,Ferrari,02:34:23,61.0,1956
+1956-07-14,Europe,Great Britain,Silverstone Circuit,Juan Manuel Fangio,Ferrari,02:59:47,101.0,1956
+1956-08-05,Europe,Germany,Nürburgring,Juan Manuel Fangio,Ferrari,03:38:43,22.0,1956
+1956-09-02,Europe,Italy,Autodromo Nazionale di Monza,Stirling Moss,Maserati,02:23:41,50.0,1956
+1957-01-13,South America,Argentina,Autódromo Oscar y Juan Gálvez,Juan Manuel Fangio,Maserati,03:00:55,100.0,1957
+1957-05-19,Europe,Monaco,Circuit de Monaco,Juan Manuel Fangio,Maserati,03:10:12,105.0,1957
+1957-05-30,North America,United States,Indianapolis Motor Speedway,Sam Hanks,Epperly Offenhauser,03:41:14,200.0,1957
+1957-07-07,Europe,France,Rouen Les Essarts,Juan Manuel Fangio,Maserati,03:07:46,77.0,1957
+1957-07-20,Europe,Great Britain,Aintree Circuit,Tony Brooks,Vanwall,03:06:37,90.0,1957
+1957-07-20,Europe,Great Britain,Aintree Circuit,Stirling Moss,Vanwall,03:06:37,90.0,1957
+1957-08-04,Europe,Germany,Nürburgring,Juan Manuel Fangio,Maserati,03:30:38,22.0,1957
+1957-08-18,Europe,Italy,Pescara Circuit,Stirling Moss,Vanwall,02:59:22,18.0,1957
+1957-09-08,Europe,Italy,Autodromo Nazionale di Monza,Stirling Moss,Vanwall,02:35:03,87.0,1957
+1958-01-19,South America,Argentina,Autódromo Oscar y Juan Gálvez,Stirling Moss,Cooper Climax,02:19:33,80.0,1958
+1958-05-18,Europe,Monaco,Circuit de Monaco,Maurice Trintignant,Cooper Climax,02:52:27,100.0,1958
+1958-05-26,Europe,Netherlands,Circuit Zandvoort,Stirling Moss,Vanwall,02:04:49,75.0,1958
+1958-05-30,North America,United States,Indianapolis Motor Speedway,Jimmy Bryan,Epperly Offenhauser,03:44:13,200.0,1958
+1958-06-15,Europe,Belgium,Circuit de Spa Francorchamps,Tony Brooks,Vanwall,01:37:06,24.0,1958
+1958-07-06,Europe,France,Circuit de Reims Gueux,Mike Hawthorn,Ferrari,02:03:21,50.0,1958
+1958-07-19,Europe,Great Britain,Silverstone Circuit,Peter Collins,Ferrari,02:09:04,75.0,1958
+1958-08-03,Europe,Germany,Nürburgring,Tony Brooks,Vanwall,02:21:15,15.0,1958
+1958-08-24,Europe,Portugal,Circuito da Boavista,Stirling Moss,Vanwall,02:11:27,50.0,1958
+1958-09-07,Europe,Italy,Autodromo Nazionale di Monza,Tony Brooks,Vanwall,02:03:47,70.0,1958
+1958-10-19,Africa,Morocco,Ain Diab Circuit,Stirling Moss,Vanwall,02:09:15,53.0,1958
+1959-05-10,Europe,Monaco,Circuit de Monaco,Jack Brabham,Cooper Climax,02:55:51,100.0,1959
+1959-05-30,North America,United States,Indianapolis Motor Speedway,Rodger Ward,Watson Offenhauser,03:40:49,200.0,1959
+1959-05-31,Europe,Netherlands,Circuit Zandvoort,Jo Bonnier,BRM,02:05:26,75.0,1959
+1959-07-05,Europe,France,Circuit de Reims Gueux,Tony Brooks,Ferrari,02:01:26,50.0,1959
+1959-07-18,Europe,Great Britain,Aintree Circuit,Jack Brabham,Cooper Climax,02:30:11,75.0,1959
+1959-08-02,Europe,Germany,AVUS,Tony Brooks,Ferrari,02:09:31,60.0,1959
+1959-08-23,Europe,Portugal,Circuito de Monsanto,Stirling Moss,Cooper Climax,02:11:55,62.0,1959
+1959-09-13,Europe,Italy,Autodromo Nazionale di Monza,Stirling Moss,Cooper Climax,02:04:05,72.0,1959
+1959-12-12,North America,United States,Sebring Raceway,Bruce McLaren,Cooper Climax,02:12:35,42.0,1959
+1960-02-07,South America,Argentina,Autódromo Oscar y Juan Gálvez,Bruce McLaren,Cooper Climax,02:17:49,80.0,1960
+1960-05-29,Europe,Monaco,Circuit de Monaco,Stirling Moss,Lotus Climax,02:53:45,100.0,1960
+1960-05-30,North America,United States,Indianapolis Motor Speedway,Jim Rathmann,Watson Offenhauser,03:36:11,200.0,1960
+1960-06-06,Europe,Netherlands,Circuit Zandvoort,Jack Brabham,Cooper Climax,02:01:47,75.0,1960
+1960-06-19,Europe,Belgium,Circuit de Spa Francorchamps,Jack Brabham,Cooper Climax,02:21:37,36.0,1960
+1960-07-03,Europe,France,Circuit de Reims Gueux,Jack Brabham,Cooper Climax,01:57:24,50.0,1960
+1960-07-16,Europe,Great Britain,Silverstone Circuit,Jack Brabham,Cooper Climax,02:04:24,77.0,1960
+1960-08-14,Europe,Portugal,Circuito da Boavista,Jack Brabham,Cooper Climax,02:19:00,55.0,1960
+1960-09-04,Europe,Italy,Autodromo Nazionale di Monza,Phil Hill,Ferrari,02:21:09,50.0,1960
+1960-11-20,North America,United States,Riverside International Raceway,Stirling Moss,Lotus Climax,02:28:52,75.0,1960
+1961-05-14,Europe,Monaco,Circuit de Monaco,Stirling Moss,Lotus Climax,02:45:50,100.0,1961
+1961-05-22,Europe,Netherlands,Circuit Zandvoort,Wolfgang von Trips,Ferrari,02:01:52,75.0,1961
+1961-06-18,Europe,Belgium,Circuit de Spa Francorchamps,Phil Hill,Ferrari,02:03:03,30.0,1961
+1961-07-02,Europe,France,Circuit de Reims Gueux,Giancarlo Baghetti,Ferrari,02:14:17,52.0,1961
+1961-07-15,Europe,Great Britain,Aintree Circuit,Wolfgang von Trips,Ferrari,02:40:53,75.0,1961
+1961-08-06,Europe,Germany,Nürburgring,Stirling Moss,Lotus Climax,02:18:12,15.0,1961
+1961-09-10,Europe,Italy,Autodromo Nazionale di Monza,Phil Hill,Ferrari,02:03:13,43.0,1961
+1961-10-08,North America,United States,Watkins Glen International,Innes Ireland,Lotus Climax,02:13:45,100.0,1961
+1962-05-20,Europe,Netherlands,Circuit Zandvoort,Graham Hill,BRM,02:11:02,80.0,1962
+1962-06-03,Europe,Monaco,Circuit de Monaco,Bruce McLaren,Cooper Climax,02:46:29,100.0,1962
+1962-06-17,Europe,Belgium,Circuit de Spa Francorchamps,Jim Clark,Lotus Climax,02:07:32,32.0,1962
+1962-07-08,Europe,France,Rouen Les Essarts,Dan Gurney,Porsche,02:07:35,54.0,1962
+1962-07-21,Europe,Great Britain,Aintree Circuit,Jim Clark,Lotus Climax,02:26:20,75.0,1962
+1962-08-05,Europe,Germany,Nürburgring,Graham Hill,BRM,02:38:45,15.0,1962
+1962-09-16,Europe,Italy,Autodromo Nazionale di Monza,Graham Hill,BRM,02:29:08,86.0,1962
+1962-10-07,North America,United States,Watkins Glen International,Jim Clark,Lotus Climax,02:07:13,100.0,1962
+1962-12-29,Africa,South Africa,Prince George Circuit,Graham Hill,BRM,02:08:03,82.0,1962
+1963-05-26,Europe,Monaco,Circuit de Monaco,Graham Hill,BRM,02:41:49,100.0,1963
+1963-06-09,Europe,Belgium,Circuit de Spa Francorchamps,Jim Clark,Lotus Climax,02:27:47,32.0,1963
+1963-06-23,Europe,Netherlands,Circuit Zandvoort,Jim Clark,Lotus Climax,02:08:13,80.0,1963
+1963-06-30,Europe,France,Circuit de Reims Gueux,Jim Clark,Lotus Climax,02:10:54,53.0,1963
+1963-07-20,Europe,Great Britain,Silverstone Circuit,Jim Clark,Lotus Climax,02:14:09,82.0,1963
+1963-08-04,Europe,Germany,Nürburgring,John Surtees,Ferrari,02:13:06,15.0,1963
+1963-09-08,Europe,Italy,Autodromo Nazionale di Monza,Jim Clark,Lotus Climax,02:24:19,86.0,1963
+1963-10-06,North America,United States,Watkins Glen International,Graham Hill,BRM,02:19:22,110.0,1963
+1963-10-27,North America,Mexico,Autódromo Hermanos Rodríguez,Jim Clark,Lotus Climax,02:09:52,65.0,1963
+1963-12-28,Africa,South Africa,Prince George Circuit,Jim Clark,Lotus Climax,02:10:36,85.0,1963
+1964-05-10,Europe,Monaco,Circuit de Monaco,Graham Hill,BRM,02:41:19,100.0,1964
+1964-05-24,Europe,Netherlands,Circuit Zandvoort,Jim Clark,Lotus Climax,02:07:35,80.0,1964
+1964-06-14,Europe,Belgium,Circuit de Spa Francorchamps,Jim Clark,Lotus Climax,02:06:40,32.0,1964
+1964-06-28,Europe,France,Rouen Les Essarts,Dan Gurney,Brabham Climax,02:07:49,57.0,1964
+1964-07-11,Europe,Great Britain,Brands Hatch,Jim Clark,Lotus Climax,02:15:07,80.0,1964
+1964-08-02,Europe,Germany,Nürburgring,John Surtees,Ferrari,02:12:04,15.0,1964
+1964-08-23,Europe,Austria,Zeltweg Airfield,Lorenzo Bandini,Ferrari,02:06:18,105.0,1964
+1964-09-06,Europe,Italy,Autodromo Nazionale di Monza,John Surtees,Ferrari,02:10:51,78.0,1964
+1964-10-04,North America,United States,Watkins Glen International,Graham Hill,BRM,02:16:38,110.0,1964
+1964-10-25,North America,Mexico,Autódromo Hermanos Rodríguez,Dan Gurney,Brabham Climax,02:09:50,65.0,1964
+1965-01-01,Africa,South Africa,Prince George Circuit,Jim Clark,Lotus Climax,02:06:46,85.0,1965
+1965-05-30,Europe,Monaco,Circuit de Monaco,Graham Hill,BRM,02:37:39,100.0,1965
+1965-06-13,Europe,Belgium,Circuit de Spa Francorchamps,Jim Clark,Lotus Climax,02:23:34,32.0,1965
+1965-06-27,Europe,France,Charade Circuit,Jim Clark,Lotus Climax,02:14:38,40.0,1965
+1965-07-10,Europe,Great Britain,Silverstone Circuit,Jim Clark,Lotus Climax,02:05:25,80.0,1965
+1965-07-18,Europe,Netherlands,Circuit Zandvoort,Jim Clark,Lotus Climax,02:03:59,80.0,1965
+1965-08-01,Europe,Germany,Nürburgring,Jim Clark,Lotus Climax,02:07:52,15.0,1965
+1965-09-12,Europe,Italy,Autodromo Nazionale di Monza,Jackie Stewart,BRM,02:04:52,76.0,1965
+1965-10-03,North America,United States,Watkins Glen International,Graham Hill,BRM,02:20:36,110.0,1965
+1965-10-24,North America,Mexico,Autódromo Hermanos Rodríguez,Richie Ginther,Honda,02:08:32,65.0,1965
+1966-05-22,Europe,Monaco,Circuit de Monaco,Jackie Stewart,BRM,02:33:10,100.0,1966
+1966-06-12,Europe,Belgium,Circuit de Spa Francorchamps,John Surtees,Ferrari,02:09:11,28.0,1966
+1966-07-03,Europe,France,Circuit de Reims Gueux,Jack Brabham,Brabham Repco,01:48:31,48.0,1966
+1966-07-16,Europe,Great Britain,Brands Hatch,Jack Brabham,Brabham Repco,02:13:13,80.0,1966
+1966-07-24,Europe,Netherlands,Circuit Zandvoort,Jack Brabham,Brabham Repco,02:20:32,90.0,1966
+1966-08-07,Europe,Germany,Nürburgring,Jack Brabham,Brabham Repco,02:27:03,15.0,1966
+1966-09-04,Europe,Italy,Autodromo Nazionale di Monza,Ludovico Scarfiotti,Ferrari,01:47:14,68.0,1966
+1966-10-02,North America,United States,Watkins Glen International,Jim Clark,Lotus BRM,02:09:40,108.0,1966
+1966-10-23,North America,Mexico,Autódromo Hermanos Rodríguez,John Surtees,Cooper Maserati,02:06:35,65.0,1966
+1967-01-02,Africa,South Africa,Kyalami Grand Prix Circuit,Pedro Rodriguez,Cooper Maserati,02:05:45,80.0,1967
+1967-05-07,Europe,Monaco,Circuit de Monaco,Denny Hulme,Brabham Repco,02:34:34,100.0,1967
+1967-06-04,Europe,Netherlands,Circuit Zandvoort,Jim Clark,Lotus Ford,02:14:45,90.0,1967
+1967-06-18,Europe,Belgium,Circuit de Spa Francorchamps,Dan Gurney,Eagle Weslake,01:40:49,28.0,1967
+1967-07-02,Europe,France,Bugatti Au Mans,Jack Brabham,Brabham Repco,02:13:21,80.0,1967
+1967-07-15,Europe,Great Britain,Silverstone Circuit,Jim Clark,Lotus Ford,01:59:25,80.0,1967
+1967-08-06,Europe,Germany,Nürburgring,Denny Hulme,Brabham Repco,02:05:55,15.0,1967
+1967-08-27,North America,Canada,Mosport International Raceway,Jack Brabham,Brabham Repco,02:40:40,90.0,1967
+1967-09-10,Europe,Italy,Autodromo Nazionale di Monza,John Surtees,Honda,01:43:45,68.0,1967
+1967-10-01,North America,United States,Watkins Glen International,Jim Clark,Lotus Ford,02:03:13,108.0,1967
+1967-10-22,North America,Mexico,Autódromo Hermanos Rodríguez,Jim Clark,Lotus Ford,01:59:28,65.0,1967
+1968-01-01,Africa,South Africa,Kyalami Grand Prix Circuit,Jim Clark,Lotus Ford,01:53:56,80.0,1968
+1968-05-12,Europe,Spain,Circuito Permanente del Jarama,Graham Hill,Lotus Ford,02:15:20,90.0,1968
+1968-05-26,Europe,Monaco,Circuit de Monaco,Graham Hill,Lotus Ford,02:00:32,80.0,1968
+1968-06-09,Europe,Belgium,Circuit de Spa Francorchamps,Bruce McLaren,McLaren Ford,01:40:02,28.0,1968
+1968-06-23,Europe,Netherlands,Circuit Zandvoort,Jackie Stewart,Matra Ford,02:46:11,90.0,1968
+1968-07-07,Europe,France,Rouen Les Essarts,Jacky Ickx,Ferrari,02:25:40,60.0,1968
+1968-07-20,Europe,Great Britain,Brands Hatch,Jo Siffert,Lotus Ford,02:01:20,80.0,1968
+1968-08-04,Europe,Germany,Nürburgring,Jackie Stewart,Matra Ford,02:19:03,14.0,1968
+1968-09-08,Europe,Italy,Autodromo Nazionale di Monza,Denny Hulme,McLaren Ford,01:40:14,68.0,1968
+1968-09-22,North America,Canada,Circuit Mont Tremblant,Denny Hulme,McLaren Ford,02:27:11,90.0,1968
+1968-10-06,North America,United States,Watkins Glen International,Jackie Stewart,Matra Ford,01:59:20,108.0,1968
+1968-11-03,North America,Mexico,Autódromo Hermanos Rodríguez,Graham Hill,Lotus Ford,01:56:43,65.0,1968
+1969-03-01,Africa,South Africa,Kyalami Grand Prix Circuit,Jackie Stewart,Matra Ford,01:50:39,80.0,1969
+1969-05-04,Europe,Spain,Montjuïc circuit,Jackie Stewart,Matra Ford,02:16:53,90.0,1969
+1969-05-18,Europe,Monaco,Circuit de Monaco,Graham Hill,Lotus Ford,01:56:59,80.0,1969
+1969-06-21,Europe,Netherlands,Circuit Zandvoort,Jackie Stewart,Matra Ford,02:06:42,90.0,1969
+1969-07-06,Europe,France,Charade Circuit,Jackie Stewart,Matra Ford,01:56:47,38.0,1969
+1969-07-19,Europe,Great Britain,Silverstone Circuit,Jackie Stewart,Matra Ford,01:55:55,84.0,1969
+1969-08-03,Europe,Germany,Nürburgring,Jacky Ickx,Brabham Ford,01:49:55,14.0,1969
+1969-09-07,Europe,Italy,Autodromo Nazionale di Monza,Jackie Stewart,Matra Ford,01:39:11,68.0,1969
+1969-09-20,North America,Canada,Mosport International Raceway,Jacky Ickx,Brabham Ford,01:59:25,90.0,1969
+1969-10-05,North America,United States,Watkins Glen International,Jochen Rindt,Lotus Ford,01:57:56,108.0,1969
+1969-10-19,North America,Mexico,Autódromo Hermanos Rodríguez,Denny Hulme,McLaren Ford,01:54:08,65.0,1969
+1970-03-07,Africa,South Africa,Kyalami Grand Prix Circuit,Jack Brabham,Brabham Ford,01:49:34,80.0,1970
+1970-04-19,Europe,Spain,Circuito Permanente del Jarama,Jackie Stewart,March Ford,02:10:58,90.0,1970
+1970-05-10,Europe,Monaco,Circuit de Monaco,Jochen Rindt,Lotus Ford,01:54:36,80.0,1970
+1970-06-07,Europe,Belgium,Circuit de Spa Francorchamps,Pedro Rodriguez,BRM,01:38:09,28.0,1970
+1970-06-21,Europe,Netherlands,Circuit Zandvoort,Jochen Rindt,Lotus Ford,01:50:43,80.0,1970
+1970-07-05,Europe,France,Charade Circuit,Jochen Rindt,Lotus Ford,01:55:57,38.0,1970
+1970-07-18,Europe,Great Britain,Brands Hatch,Jochen Rindt,Lotus Ford,01:57:02,80.0,1970
+1970-08-02,Europe,Germany,Hockenheimring,Jochen Rindt,Lotus Ford,01:42:00,50.0,1970
+1970-08-16,Europe,Austria,Red Bull Ring,Jacky Ickx,Ferrari,01:42:17,60.0,1970
+1970-09-06,Europe,Italy,Autodromo Nazionale di Monza,Clay Regazzoni,Ferrari,01:39:06,68.0,1970
+1970-09-20,North America,Canada,Circuit Mont Tremblant,Jacky Ickx,Ferrari,02:21:18,90.0,1970
+1970-10-04,North America,United States,Watkins Glen International,Emerson Fittipaldi,Lotus Ford,01:57:32,108.0,1970
+1970-10-25,North America,Mexico,Autódromo Hermanos Rodríguez,Jacky Ickx,Ferrari,01:53:28,65.0,1970
